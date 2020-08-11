@@ -9,5 +9,5 @@ Classification - Dimension Reductionality on MNIST Data
 Classification - Comparing Ensemble Algorithms on Credit Card Data
 * Evaluate ensemble algorithms on test set accuracy, including: Decision Trees, Random Forest, AdaBoost and Gradient Boost
 
-Classification - Using Credit Card Payment Data to Predict If a Client will Default the Following Month	
+Classification - Predicting Credit Card Payment Defaults
 * End-to-end project with data exploration, preparation, modelling and evaluation
